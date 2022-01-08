@@ -1,0 +1,22 @@
+{
+    "icons": [
+        {
+          "src": "/icons/icons-192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "/icons/icons-512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ],
+
+    "name": "Budget Tracker",
+    "short_name": "Tracker",
+    "background_color": "#01579b",
+    "theme_color": "#ffffff",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "description": "App that tracks the flows of money"
+}
